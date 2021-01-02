@@ -1,0 +1,2 @@
+# PyPoll
+Analyzing election data.
